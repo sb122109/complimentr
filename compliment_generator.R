@@ -2,6 +2,6 @@
 #' @name compliment_generator
 #' @param name the user's name, default name is 'sweet-one'
 
-compliment_generator <- function(name = 'sweet-one') {
+compliment_generator <- function(name = 'new-one') {
   print(paste0('Hey ', name, ', I admire your work ethic!'))
 }
